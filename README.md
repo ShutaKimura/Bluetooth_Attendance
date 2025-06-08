@@ -1,0 +1,2 @@
+# Bluetooth_Attendance
+Bluetoothを用いた入退室管理システムです．
